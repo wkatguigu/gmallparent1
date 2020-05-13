@@ -14,25 +14,25 @@
         <module name="service-payment-client" />
         <module name="common-util" />
         <module name="service-order" />
-        <module name="service-user-client" />
+        <module name="server-gateway" />
         <module name="service-activity-client" />
         <module name="service-util" />
-        <module name="service-order-client" />
+        <module name="rabbit-util" />
         <module name="service-user" />
         <module name="service-payment" />
         <module name="web-all" />
-        <module name="service-cart-client" />
+        <module name="service-order-client" />
         <module name="service-item" />
         <module name="service-task" />
-        <module name="service-product" />
+        <module name="service-cart-client" />
         <module name="model" />
         <module name="service-item-client" />
         <module name="service-list-client" />
         <module name="service-product-client" />
         <module name="service-mq" />
         <module name="service-list" />
-        <module name="server-gateway" />
-        <module name="rabbit-util" />
+        <module name="service-user-client" />
+        <module name="service-product" />
       </profile>
     </annotationProcessing>
   </component>
